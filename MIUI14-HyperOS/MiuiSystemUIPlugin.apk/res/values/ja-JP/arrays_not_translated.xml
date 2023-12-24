@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+  <string-array name="card_style_tiles_mobile">
+    <item>wifi</item>
+    <item>cell</item>
+  </string-array>
+  <string-array name="card_style_tiles_wifi">
+    <item>wifi</item>
+    <item>bt</item>
+  </string-array>
+  <string-array name="config_canShowCustomFocusPackages">
+    <item>com.android.incallui</item>
+  </string-array>
+  <string-array name="config_canShowFocusPackages">
+    <item>com.autonavi.minimap</item>
+    <item>com.sankuai.meituan</item>
+    <item>com.sankuai.meituan.takeoutnew</item>
+    <item>me.ele</item>
+    <item>com.xiaomi.smarthome</item>
+    <item>com.android.calendar</item>
+    <item>com.xiaomi.calendar</item>
+    <item>com.android.soundrecorder</item>
+    <item>com.android.deskclock</item>
+    <item>com.android.mms</item>
+    <item>com.android.settings</item>
+    <item>com.android.incallui</item>
+    <item>com.android.server.telecom</item>
+    <item>com.xiaomi.xmsf</item>
+    <item>com.xiaomi.mipushdemo</item>
+    <item>com.miui.securitycenter</item>
+  </string-array>
+  <string-array name="vowifi_tiles">
+    <item>vowifi1</item>
+    <item>vowifi2</item>
+  </string-array>
+</resources>
