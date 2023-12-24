@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+  <plurals name="search_all_records_hint">
+    <item quantity="other">%d recordings</item>
+  </plurals>
+</resources>
